@@ -124,7 +124,7 @@ Diving deep into Large Language Models, advanced C# patterns, and how AI interse
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Ship a complete Unity game (not just academic — a real released project)
 - [ ] Build an AI-integrated Unity prototype
